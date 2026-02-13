@@ -1,7 +1,7 @@
 import math
 
 while True :
-    num1 = int(input("Enter frist number: "))
+    num1 = int(input("Enter first number: "))
     operator = input("Select the operators(+,-,*,/,**): ")
     num2 =int(input("Enter the second number: "))
 
@@ -27,4 +27,5 @@ while True :
 
     if again != "yes":
         break;
+
 
